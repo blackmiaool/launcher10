@@ -1,0 +1,23 @@
+{
+  "name": "launcher10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackmiaool/launcher10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackmiaool/launcher10/issues"
+  },
+  "homepage": "https://github.com/blackmiaool/launcher10#readme",
+  "dependencies": {
+    "electron": "^4.0.5"
+  }
+}
